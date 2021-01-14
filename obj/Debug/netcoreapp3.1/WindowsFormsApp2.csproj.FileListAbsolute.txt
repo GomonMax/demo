@@ -1,0 +1,13 @@
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+D:\Kursova\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
